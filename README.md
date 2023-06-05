@@ -42,7 +42,7 @@
     </td>
     <td align="center" width="96">
       <a href="#pine-tech" >
-        <img src="./img/reactjs1.png" width="48" height="46" alt="React_JS" />
+        <img src="./img/reactjs1.png" width="48" height="44" alt="React_JS" />
       </a>
       <br>React JS
     </td>
