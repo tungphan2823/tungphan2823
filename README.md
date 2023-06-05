@@ -18,7 +18,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#pine-tech">
-        <img src="./img/js.png" width="48" height="48" alt="HTML" />
+        <img src="./img/html.png" width="48" height="48" alt="HTML" />
       </a>
       <br>HTML
     </td>
@@ -30,7 +30,7 @@
     </td>
     <td align="center" width="96">
       <a href="#pine-tech">
-        <img src="./img/html.png" width="48" height="48" alt="JavaScript" />
+        <img src="./img/js.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
