@@ -65,6 +65,6 @@
 </table>
 
 
-<<<<<<< HEAD
+
+
 [linkedin]: https://www.linkedin.com/in/tung-phan-279163214/ "Tung Phan LinkedIn"
-=======
