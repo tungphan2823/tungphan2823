@@ -38,12 +38,7 @@
       </a>
       <br>TypeScript
     </td>
-    <td align="center" width="96">
-      <a href="#pine-tech" >
-        <img src="./img/reactjs1.png" width="48" height="40" alt="React_JS" />
-      </a>
-      <br>React JS
-    </td>
+    
     <td align="center" width="96"> 
       <a href="#pine-tech" >
         <img src="./img/mysql.png" width="48" height="48" alt="MySQL" />
