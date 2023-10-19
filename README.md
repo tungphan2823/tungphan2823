@@ -56,9 +56,7 @@
       </a>
       <br>Linux
       <td align="center"  width="96">
-      <a href="#pine-tech">
-        <img src="./img/aws.png" width="48" height="48" alt="AWS" />
-      </a>
+     
       <br>AWS
   </tr>
 </table>
