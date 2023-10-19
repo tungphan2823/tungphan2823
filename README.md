@@ -57,7 +57,6 @@
       <br>Linux
       <td align="center"  width="96">
      
-      <br>AWS
   </tr>
 </table>
 
