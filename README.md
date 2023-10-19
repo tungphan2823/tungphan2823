@@ -55,7 +55,8 @@
         <img src="./img/linux.png" width="48" height="48" alt="Linux" />
       </a>
       <br>Linux
-      <td align="center"  width="96">
+     </td>
+    
      
   </tr>
 </table>
