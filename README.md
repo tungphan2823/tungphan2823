@@ -5,7 +5,7 @@
 
 - :office: &nbsp;I'm currently studying at Vaasa University of Applied Sciences
 - :seedling: &nbsp;I graduated from Chu Van An National High School for The Gifted - Computer Science 
-- :book: &nbsp;I love writing code and learn anythings about it
+- :book: &nbsp;I love writing code and learn about it
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 <br>
 <h2 align="left" id="pine-tech">Favorite Tech</h2>
