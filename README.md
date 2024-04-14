@@ -30,7 +30,7 @@
       <a href="#pine-tech">
         <img src="./img/tailwind.png" width="48" height="48" alt="Tailwind" />
       </a>
-      <br>Tailwind CSS
+      <br>Tailwind
     </td>
     <td align="center" width="96">
       <a href="#pine-tech">
