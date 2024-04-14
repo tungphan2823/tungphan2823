@@ -28,6 +28,12 @@
     </td>
     <td align="center" width="96">
       <a href="#pine-tech">
+        <img src="./img/tailwind.png" width="48" height="48" alt="Tailwind CSS" />
+      </a>
+      <br>Tailwind CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#pine-tech">
         <img src="./img/js.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
@@ -40,15 +46,21 @@
     </td>
     <td align="center" width="96">
       <a href="#pine-tech">
-        <img src="./img/reactjs1.png" width="48" height="48" alt="React JS" />
+        <img src="./img/next.png" width="48" height="48" alt="NEXT JS" />
+      </a>
+      <br>NEXT JS
+    </td>
+    <td align="center" width="96">
+      <a href="#pine-tech">
+        <img src="./img/reactjs1.png" width="48" height="45" alt="React JS" />
       </a>
       <br>React JS
     </td>
     <td align="center" width="96"> 
       <a href="#pine-tech" >
-        <img src="./img/mysql.png" width="48" height="48" alt="MySQL" />
+        <img src="./img/post.png" width="48" height="48" alt="PostgreSQL" />
       </a>
-      <br>MySQL
+      <br>PostgreSQL
     </td>
     <td align="center"  width="96">
       <a href="#pine-tech">
