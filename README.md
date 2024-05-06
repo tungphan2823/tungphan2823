@@ -7,7 +7,7 @@
 - :seedling: &nbsp;I graduated from Chu Van An National High School for The Gifted - Computer Science 
 - :book: &nbsp;I love writing code and learn about it
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
-- :computer: &nbsp;My portfolio **[Portfolio]**
+- :computer: &nbsp;My **[Portfolio]**
 <br>
 <h2 align="left" id="pine-tech">Favorite Tech</h2>
 
