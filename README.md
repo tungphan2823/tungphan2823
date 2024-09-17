@@ -15,6 +15,24 @@
 
 <table>
   <tr>
+   <td align="center" width="96">
+      <a href="#pine-tech">
+        <img src="./img/js.png" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#pine-tech">
+        <img src="./img/ts.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#pine-tech">
+        <img src="./img/python.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
     <td align="center" width="96">
       <a href="#pine-tech">
         <img src="./img/html.png" width="48" height="48" alt="HTML" />
@@ -32,18 +50,6 @@
         <img src="./img/tailwind.png" width="48" height="48" alt="Tailwind" />
       </a>
       <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <a href="#pine-tech">
-        <img src="./img/js.png" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#pine-tech">
-        <img src="./img/ts.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
     </td>
     <td align="center" width="96">
       <a href="#pine-tech">
