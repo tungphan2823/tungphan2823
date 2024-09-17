@@ -29,7 +29,7 @@
     </td>
     <td align="center" width="96">
       <a href="#pine-tech">
-        <img src="./img/python.png" width="48" height="48" alt="Python" />
+        <img src="./img/python.png" width="55" height="55" alt="Python" />
       </a>
       <br>Python
     </td>
