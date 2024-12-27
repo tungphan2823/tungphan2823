@@ -2,13 +2,13 @@
 {
   "username": "<span style='color: orange;'>tp</span>",
   "bio": {
-      "name": "<span style='color: orange;'>Tung Phan</span>",
-      "occupation": "<span style='color: orange;'>Software Engineer</span>",
+      "name": "<span style='color: orange;'> <b>Tung Phan</b></span>",
+      "occupation": "<span style='color: orange;'> <b>Software Engineer</b></span>",
   },
   "contact": {
-      "email": "<span style='color: orange;'>tungphann.work@gmail.com</span>",
-      "linkedIn": "<span style='color: orange;'>https://www.linkedin.com/in/tungphan2823/</span>",
-      "portfolio": "<span style='color: orange;'>https://tungphan.id.vn/</span>"
+      "email": "<span style='color: orange;'> <b>tungphann.work@gmail.com</b></span>",
+      "linkedIn": "<span style='color: orange;'> <b>https://www.linkedin.com/in/tungphan2823/</b></span>",
+      "portfolio": "<span style='color: orange;'> <b>https://tungphan.id.vn/</b></span>"
   },
    "education": {
     "degrees": [
@@ -28,33 +28,33 @@
   },
   "skills": {
     "programming_languages": [
-        "<span style='color: orange;'>JavaScript</span>",
-        "<span style='color: orange;'>TypeScript</span>",
-        "<span style='color: orange;'>Python</span>",
-        "<span style='color: orange;'>Java</span>",
-        "<span style='color: orange;'>HTML/CSS</span>",
+        "<span style='color: orange;'> <b>JavaScript</b></span>",
+        "<span style='color: orange;'> <b>TypeScript</b></span>",
+        "<span style='color: orange;'> <b>Python</b></span>",
+        "<span style='color: orange;'> <b>Java</b></span>",
+        "<span style='color: orange;'> <b>HTML/CSS</b></span>",
     ],
     "frameworks_and_libraries": [
-        "<span style='color: orange;'>ReactJS</span>",
-        "<span style='color: orange;'>Next.js</span>",
-        "<span style='color: orange;'>NodeJS</span>",
-        "<span style='color: orange;'>ExpressJS</span>",
-        "<span style='color: orange;'>Tailwind CSS</span>",
-        "<span style='color: orange;'>GraphQL</span>"
+        "<span style='color: orange;'> <b>ReactJS</b></span>",
+        "<span style='color: orange;'> <b>Next.js</b></span>",
+        "<span style='color: orange;'> <b>NodeJS</b></span>",
+        "<span style='color: orange;'> <b>ExpressJS</b></span>",
+        "<span style='color: orange;'> <b>Tailwind CSS</b></span>",
+        "<span style='color: orange;'> <b>GraphQL</b></span>"
     ],
     "cloud_and_databases": [
-        "<span style='color: orange;'>Firebase</span>",
-        "<span style='color: orange;'>Amazon Web Services (AWS)</span>",
-        "<span style='color: orange;'>PostgreSQL</span>",
-        "<span style='color: orange;'>MongoDB</span>",
-        "<span style='color: orange;'>SQL</span>"
+        "<span style='color: orange;'> <b>Firebase</b></span>",
+        "<span style='color: orange;'> <b>Amazon Web Services (AWS)</b></span>",
+        "<span style='color: orange;'> <b>PostgreSQL</b></span>",
+        "<span style='color: orange;'> <b>MongoDB</b></span>",
+        "<span style='color: orange;'> <b>SQL</b></span>"
     ],
     "tools_and_platforms": [
-        "<span style='color: orange;'>Docker</span>",
-        "<span style='color: orange;'>Git</span>",
-        "<span style='color: orange;'>GitHub</span>",
-        "<span style='color: orange;'>Figma</span>",
-        "<span style='color: orange;'>Postman</span>"
+        "<span style='color: orange;'> <b>Docker</b></span>",
+        "<span style='color: orange;'> <b>Git</b></span>",
+        "<span style='color: orange;'> <b>GitHub</b></span>",
+        "<span style='color: orange;'> <b>Figma</b></span>",
+        "<span style='color: orange;'> <b>Postman</b></span>"
     ],
   },
   "plan": "<span style='color: orange;'> Build innovative software, contribute to open source, and stay updated on emerging technologies.</span>"
