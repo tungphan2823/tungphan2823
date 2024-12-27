@@ -10,14 +10,29 @@
       "linkedIn": "<span style='color: orange;'>https://www.linkedin.com/in/tungphan2823/</span>",
       "portfolio": "<span style='color: orange;'>https://tungphan.id.vn/</span>"
   },
+   "education": {
+    "degrees": [
+      {
+          "degree_name": "<b>Bachelor of Engineering in Information Technology, Software Engineering Major</b>",
+          "institution": "<b>Vaasa University of Applied Sciences</b>",
+          "grade": "<b>4.11/5.0</b>"
+          "year_of_completion": "<b>2024</b>"
+      }
+      {
+          "degree_name": "<b>High School Graduation Diploma, Computer Sciences</b>",
+          "institution": "<b>Chu Van An National High School For The Gifted</b>",
+          "grade": "<b>9.1/10.0</b>"
+          "year_of_completion": "<b>2021</b>"
+      },
+    ],
+  },
   "skills": {
     "programming_languages": [
         "<span style='color: orange;'>JavaScript</span>",
         "<span style='color: orange;'>TypeScript</span>",
         "<span style='color: orange;'>Python</span>",
         "<span style='color: orange;'>Java</span>",
-        "<span style='color: orange;'>HTML</span>",
-        "<span style='color: orange;'>CSS</span>"
+        "<span style='color: orange;'>HTML/CSS</span>",
     ],
     "frameworks_and_libraries": [
         "<span style='color: orange;'>ReactJS</span>",
@@ -41,15 +56,6 @@
         "<span style='color: orange;'>Figma</span>",
         "<span style='color: orange;'>Postman</span>"
     ],
-    "testing": [
-        "<span style='color: orange;'>JEST</span>"
-    ],
-    "cybersecurity": [
-        "<span style='color: orange;'>Authentication</span>",
-        "<span style='color: orange;'>Authorization</span>",
-        "<span style='color: orange;'>Encryption</span>",
-        "<span style='color: orange;'>Steganography</span>"
-    ]
   },
   "plan": "<span style='color: orange;'> Build innovative software, contribute to open source, and stay updated on emerging technologies.</span>"
 }
