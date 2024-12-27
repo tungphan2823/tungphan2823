@@ -1,58 +1,52 @@
-<pre style="color: orange;">
 {
-  "username": "<span style='color: orange;'>your-username</span>",
-  "bio": {
-    "name": "<span style='color: orange;'>Tung Phan</span>",
-    "occupation": "<span style='color: orange;'>Software Engineer</span>",
-    "status": "<span style='color: orange;'>📚 Passionate about building impactful software solutions.</span>"
-  },
-  "contact": {
-    "email": "<span style='color: orange;'>tungphann.work@gmail.com</span>",
-    "linkedin": "<span style='color: orange;'>https://linkedin.com/in/your-link</span>",
-    "github": "<span style='color: orange;'>https://github.com/your-username</span>",
-    "portfolio": "<span style='color: orange;'>https://yourportfolio.dev</span>"
+  "profile": {
+    "name": "Tung Phan",
+    "title": "Software Engineer",
+    "contact": {
+      "email": "tungphann.work@gmail.com",
+      "phone": "+358468961816"
+    }
   },
   "skills": {
-    "programming_languages": [
-      "<span style='color: orange;'>JavaScript</span>",
-      "<span style='color: orange;'>TypeScript</span>",
-      "<span style='color: orange;'>Python</span>",
-      "<span style='color: orange;'>Java</span>",
-      "<span style='color: orange;'>HTML</span>",
-      "<span style='color: orange;'>CSS</span>"
+    "programming": [
+      "JavaScript (ReactJS, NodeJS)",
+      "TypeScript",
+      "Python",
+      "Java",
+      "HTML/CSS"
     ],
-    "frameworks_and_libraries": [
-      "<span style='color: orange;'>ReactJS</span>",
-      "<span style='color: orange;'>Next.js</span>",
-      "<span style='color: orange;'>NodeJS</span>",
-      "<span style='color: orange;'>ExpressJS</span>",
-      "<span style='color: orange;'>Tailwind CSS</span>",
-      "<span style='color: orange;'>GraphQL</span>"
+    "frameworks": [
+      "Next.js",
+      "Tailwind CSS",
+      "ExpressJS",
+      "GraphQL"
     ],
-    "cloud_and_databases": [
-      "<span style='color: orange;'>Firebase</span>",
-      "<span style='color: orange;'>Amazon Web Services (AWS)</span>",
-      "<span style='color: orange;'>PostgreSQL</span>",
-      "<span style='color: orange;'>MongoDB</span>",
-      "<span style='color: orange;'>SQL</span>"
+    "cloud": ["Amazon Web Services (AWS)"],
+    "databases": ["PostgreSQL", "MongoDB", "SQL"],
+    "devOps": ["Git", "GitHub", "CI/CD", "Docker"],
+    "testing": ["JEST"],
+    "design": ["Figma"],
+    "ai": ["Prompt Engineering", "LLMs", "Prompt Design"],
+    "security": [
+      "Authentication & Authorization",
+      "Penetration Testing",
+      "Privacy Tools",
+      "Cryptography"
     ],
-    "tools_and_platforms": [
-      "<span style='color: orange;'>Docker</span>",
-      "<span style='color: orange;'>Git</span>",
-      "<span style='color: orange;'>GitHub</span>",
-      "<span style='color: orange;'>Figma</span>",
-      "<span style='color: orange;'>Postman</span>"
-    ],
-    "testing": [
-      "<span style='color: orange;'>JEST</span>"
-    ],
-    "cybersecurity": [
-      "<span style='color: orange;'>Authentication</span>",
-      "<span style='color: orange;'>Authorization</span>",
-      "<span style='color: orange;'>Encryption</span>",
-      "<span style='color: orange;'>Steganography</span>"
-    ]
+    "marketing": ["Meta Ads", "Ads Metrics"],
+    "soft_skills": ["Networking", "Team Player", "Communication"]
   },
-  "plan": "<span style='color: orange;'>🚀 Build innovative software, contribute to open source, and stay updated on emerging technologies.</span>"
+  "education": {
+    "university": {
+      "name": "Vaasa University of Applied Sciences",
+      "degree": "Bachelor of Information Technology",
+      "major": "Software Engineering",
+      "period": "2021 - 2024",
+      "gpa": "4.11/5"
+    }
+  },
+  "languages": {
+    "english": "Highly proficient",
+    "vietnamese": "Native"
+  }
 }
-</pre>
