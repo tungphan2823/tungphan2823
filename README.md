@@ -1,4 +1,4 @@
-<pre style="color: orange;">
+<pre style="color: orange;"><b>
 {
   "username": "<span style='color: orange;'>tp</span>",
   "bio": {
@@ -59,4 +59,5 @@
   },
   "plan": "<span style='color: orange;'> Build innovative software, contribute to open source, and stay updated on emerging technologies.</span>"
 }
+</b>
 </pre>
