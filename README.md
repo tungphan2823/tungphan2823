@@ -3,7 +3,7 @@
 tpOS
 ---------
 OS: Windows 11, iOS
-Host: Vaasa University of Applied Sciences #VAMK
+Host: Vaasa University of Applied Sciences #Graduate Dec 2024 #VAMK
 Kernel: Information Technology, Software Engineering and Telecommunication #IT
 Based: Helsinki, Finland
   
