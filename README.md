@@ -4,13 +4,13 @@ tpOS
 ---------
 OS: MacOS, IOS
 Host: Vaasa University of Applied Sciences #VAMK #Graduated Dec 2024
-Kernel: Information Technology, Software Engineering and Telecommunication #IT
+Kernel: Information Technology, Software Engineering, and Telecommunication #IT
 Based: Helsinki, Finland
   
 Languages.Programming: JavaScript, TypeScript, Go, Python, Java
 Languages.Computer: HTML/CSS, JSON
-Languages.Frameworks_and_libraries: React JS, Next JS, Node JS, Express JS, Tailwind, GraphQL
-Languages.Cloud_and_database: FireBase, AWS, PostgreSQL, MongoDB
+Languages.Frameworks_and_libraries: React JS, Next JS, Nest JS, Node JS, Express JS, Tailwind, GraphQL
+Languages.Cloud_and_database: Firebase, AWS, PostgreSQL, MongoDB
 Languages.Accurate: English, Vietnamese
   
 
